@@ -28,6 +28,7 @@ number_of_times = 7
   puts "Welcome to Flatiron School's Web Development Course!"
 number_of_times -= 1
 end
+end
 
 def for_iterator(number_of_times)
   # code your solution here using the "for" keyword
