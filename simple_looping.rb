@@ -31,7 +31,7 @@ end
 end
 
 def for_iterator(number_of_times)
-  number_of_times = 7
+  number_of_times = (0..7)
   for number_of_times 
   
   puts "Welcome to Flatiron School's Web Development Course!"
